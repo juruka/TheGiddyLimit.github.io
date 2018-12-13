@@ -396,24 +396,24 @@
 					"skills": {
 						"choose": 1,
 						"from": [
-							"Athletics",
-							"Acrobatics",
-							"Sleight of Hand",
-							"Stealth",
-							"Arcana",
-							"History",
-							"Investigation",
-							"Nature",
-							"Religion",
-							"Animal Handling",
-							"Insight",
-							"Medicine",
-							"Perception",
-							"Survival",
-							"Deception",
-							"Intimidation",
-							"Performance",
-							"Persuasion"
+							"運動",
+					    	"特技",
+						    "手上把戲",
+					    	"隱匿",
+					    	"奧秘",
+					    	"歷史",
+						    "調查",
+				     		"自然",
+				    		"宗教",
+				    		"馴養動物",
+			    			"察言觀色",
+				    		"醫藥",
+				    		"感知",
+						    "求生",
+					    	"欺瞞",
+						    "威嚇",
+						    "表演",
+						    "說服"
 						]
 					},
 					"tools": [
@@ -426,10 +426,10 @@
 					{
 						"name": "吟遊激勵",
 						"entries": [
-							"You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a {@dice d6}.",
-							"Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the {@dice d20} before deciding to use the Bardic Inspiration die, but must decide before the DM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.",
-							"You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.",
-							"Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a {@dice d8} at 5th level, a {@dice d10} at 10th level, and a {@dice d12} at 15th level."
+							"你可以用振奮人心的言詞或音樂來激勵其他。在你的回合中使用一個附贈動作來選擇一個離你60呎內可以聽見你的生物，那個生物獲得一個吟遊激勵骰{@dice d6}。",
+							"在接下來的時分鐘內，該生物可以骰這顆激勵骰，並把他的數值加進一次屬性檢定、攻擊檢定或豁免中。該生物可以在骰 {@dice d20}之後、GM宣布結果之前使用吟遊激勵骰。當吟遊激勵骰被使用後就消失了，一個生物同時只能有一顆吟遊激勵骰。",
+							"你可以使用這個能力的次數等同於你的魅力調整執（最少有1）。你可以在一次長休後恢復所有的次數。",
+							"你的吟遊激勵骰的面數會在特定的等級改變。在5等的時候變成{@dice d8}、10等時變成{@dice d10}、15等時變成{@dice d12}。"
 						]
 					},
 					{
